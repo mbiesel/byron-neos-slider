@@ -1,0 +1,18 @@
+{
+    "description": "",
+    "type": "neos-package",
+    "name": "mbiesel/byron-neos-slider",
+    "require": {
+        "neos/flow": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Byron\\Neos\\Slider\\": "Classes/"
+        }
+    },
+    "extra": {
+        "neos": {
+            "package-key": "Byron.Neos.Slider"
+        }
+    }
+}
