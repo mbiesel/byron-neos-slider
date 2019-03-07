@@ -1,7 +1,7 @@
 {
     "description": "",
     "type": "neos-package",
-    "name": "mbiesel/byron-neos-slider",
+    "name": "byron/neos-slider",
     "require": {
         "neos/flow": "*"
     },
